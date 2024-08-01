@@ -1,0 +1,70 @@
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\Acer\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+C:\Users\USER\Dropbox\Personal\Advices\2021\19 - Full Real Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+D:\C# and Database\Files\DVLD Project\DVLD Project Final\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+D:\C# and Database\Files\DVLD Project\DVLD Project Final\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+D:\C# and Database\Files\DVLD Project\DVLD Project Final\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+D:\C# and Database\Files\DVLD Project\DVLD Project Final\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+D:\C# and Database\Files\DVLD Project\DVLD Project Final\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+D:\C# and Database\Files\DVLD Project\DVLD Project Final\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+D:\C# and Database\Files\DVLD Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+D:\C# and Database\Files\DVLD Project\Project\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+D:\C# and Database\Files\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+D:\C# and Database\Files\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+D:\C# and Database\Files\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+D:\C# and Database\Files\DVLD Project\Project\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll.config
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.SqlServer.Server.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Buffers.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Memory.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Numerics.Vectors.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Text.Encodings.Web.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Text.Json.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.ValueTuple.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.SqlServer.Server.pdb
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\Microsoft.SqlServer.Server.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Buffers.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Memory.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Numerics.Vectors.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Text.Encodings.Web.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Text.Json.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\System.ValueTuple.xml
+D:\C# and Database\Files\Project22\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+D:\C# and Database\Files\Project22\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+D:\C# and Database\Files\Project22\DVLD_DataAccess\obj\Debug\DVLD_Dat.AAF49C98.Up2Date
+D:\C# and Database\Files\Project22\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.dll
+D:\C# and Database\Files\Project22\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+D:\C# and Database\Files\Project22\DVLD_DataAccess\bin\Debug\appsettings.json
